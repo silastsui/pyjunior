@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#prime
+#find all prime numbers under 100
 
 import math
 
